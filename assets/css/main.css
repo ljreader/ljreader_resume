@@ -157,11 +157,13 @@ body {
   
 .centered {
     text-align: left;
+    padding-right: 25px;
 }
 
 #headerwrap h1 {
       font-size: 80px;
       color: white;
+      width:65%;
   }
   
   #headerwrap h3 {
@@ -224,20 +226,6 @@ body {
       padding-right: 8px;
       color: #1abc9c;
   }
-  
-  /* Copyright Wrap */
-  
-  #c {
-      background: #222222;
-      padding-top: 15px;
-      text-align: right;
-  }
-  
-  #c p {
-      color: white
-  }
-  
-  
   
   /* Global Values */
   
