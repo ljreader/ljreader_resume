@@ -103,7 +103,11 @@ body {
       padding: 0;
   }
   
-  
+  #topbar-inner {
+      border-bottom: 20px;
+      border-color: white;
+      
+  }
   #section-topbar ul#nav a {
     display: block;
     font: normal 11px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -135,14 +139,13 @@ body {
   
   /* Header Wrap */
   #headerwrap {
-      background: url(../images/railyard.jpg) no-repeat center top;
-      margin-top: 40px;
-      padding-top: 140px;
+      background: url(../images/railyardlj.jpg) no-repeat center top;
+      margin-top: 72px;
+      padding-top: 88px;
       text-align:center;
       background-attachment: relative;
       background-position: center center;
-      min-height: 550px;
-      min-width: 505px;
+      min-height: 540px;
       width: 100%;
       
       -webkit-background-size: 100%;
