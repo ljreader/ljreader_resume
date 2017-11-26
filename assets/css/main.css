@@ -77,6 +77,8 @@ body {
       background: #111;
       line-height: 0;
       text-align: center;
+      border-bottom: 12px solid white !important;
+      background-color: black !important;
   }
   
   /*
@@ -140,16 +142,13 @@ body {
   /* Header Wrap */
   #headerwrap {
       background: url(../images/railyardlj.jpg) no-repeat center top;
-      margin-top: 70px;
+      margin-top: 50px;
       padding-top: 88px;
       text-align:center;
       background-attachment: relative;
       background-position: center center;
       min-height: 540px;
       width: 100%;
-      border-bottom: 20px solid #7FFF00 !important;
-      background-color: #A52A2A !important;
-      
       -webkit-background-size: 100%;
       -moz-background-size: 100%;
       -o-background-size: 100%;
