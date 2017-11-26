@@ -161,9 +161,11 @@ body {
 }
 
 #headerwrap h1 {
-      font-size: 80px;
-      color: white;
-      width:65%;
+    font-family: "Raleway";
+    font-weight: 300;
+    font-size: 80px;
+    color: white;
+    width:65%;
   }
   
   #headerwrap h3 {
