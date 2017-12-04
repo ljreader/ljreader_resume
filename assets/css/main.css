@@ -76,11 +76,11 @@ body {
   }
   
   #topbar-inner {
-      background: #111;
+      background: #2f2f2f;
       line-height: 0;
       text-align: center;
       border-bottom: 12px solid #f2f2f2 !important;
-      background-color: black !important;
+      background-color: #2f2f2f !important;
   }
   
   /*
@@ -108,7 +108,7 @@ body {
   }
   
   #topbar-inner {
-      border-bottom: 20px;
+      border-bottom: 18px;
       border-color: white;
       
   }
@@ -180,7 +180,7 @@ body {
       color: white;
   }
   
-  /* Intnro Wrap */
+  /* Intro Wrap */
   
   #intro {
       background: #2c3e50;
@@ -211,7 +211,47 @@ body {
   #skillswrap h5, p {
       color: white;
   }
+
+#portfolio {
+    background: #2c3e50;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: white;
+}
+
+#portfolio h5, p {
+    color: white;
+}
+
+#portfolio i {
+    color: white;
+    font-size: 20px;
+    padding-right: 8px;
+    vertical-align: middle;
+}
   
+#interests {
+    background: #2c3e50;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: white;
+}
+
+#interests h5, p {
+    color: white;
+}
+
+#interests i {
+    color: white;
+    font-size: 20px;
+    padding-right: 8px;
+    vertical-align: middle;
+}
+
+#interests more {
+    color: #95a5a6;
+}
+
   #footwrap {
       background: #2f2f2f;
       padding-top: 50px;
@@ -235,7 +275,16 @@ body {
       padding-right: 8px;
       color: #1abc9c;
   }
+
+  #education i {
+    color: #2c3e50;
+    font-size: 20px;
+    padding-right: 8px;
+    vertical-align: middle;
+}
   
+
+
   /* Global Values */
   
   .desc {
