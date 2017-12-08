@@ -229,18 +229,30 @@ body {
     padding-right: 8px;
     vertical-align: middle;
 }
-  
-#interests {
-    background: #2c3e50;
-    padding-top: 60px;
-    padding-bottom: 60px;
+
+#icon-tag {
+    color: #2c3e50;
+    font-size: 20px;
+    padding-right: 8px;
+    vertical-align: middle;
+    }
+
+
+    
+    #interests {
+        background: #2c3e50;
+        padding-top: 80px;
+        padding-bottom: 60px;
+        color: white;
+    }
+#interests h5, {
     color: white;
+    padding-bottom: 10px;
 }
 
-#interests h5, p {
-    color: white;
+#interests p {
+    padding-top: 10px;
 }
-
 #interests i {
     color: white;
     font-size: 20px;
