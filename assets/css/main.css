@@ -239,29 +239,36 @@ body {
 
 
     
-    #interests {
-        background: #2c3e50;
-        padding-top: 80px;
-        padding-bottom: 60px;
-        color: white;
+#interests {
+    background: #2c3e50;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    color: white;
     }
+    
 #interests h5, {
     color: white;
+    margin-top: 15px;
     padding-bottom: 10px;
 }
 
 #interests p {
-    padding-top: 10px;
+    padding-top: 20px;
 }
 #interests i {
     color: white;
     font-size: 20px;
     padding-right: 8px;
+    padding-top: 20px;
     vertical-align: middle;
 }
 
 #interests more {
     color: #95a5a6;
+}
+
+#f {
+    padding-top: 4px;
 }
 
   #footwrap {
