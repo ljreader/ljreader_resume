@@ -293,9 +293,15 @@ body {
   #footwrap i {
         color: #1abc9c;
         font-size: 25px;
-        padding-right: 8px;
         vertical-align: middle;
-    }      
+    }   
+    
+    #footwrap j {
+        padding-left: 0px;
+        padding-right: 0px;
+        margin-left: 0px;
+        margin-inline-start: 0px;
+    }
 
   #education i {
     color: #2c3e50;
