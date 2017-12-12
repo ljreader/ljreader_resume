@@ -225,7 +225,7 @@ body {
 
 #portfolio i {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     padding-right: 8px;
     vertical-align: middle;
 }
@@ -265,6 +265,10 @@ body {
 
 #interests more {
     color: #95a5a6;
+}
+
+#link {
+    padding-top: 90%;
 }
 
 #f {
