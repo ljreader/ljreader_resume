@@ -248,6 +248,38 @@ body {
         color: #95a5a6;        
     }
     
+    #interests {
+        background: #2c3e50;
+        padding-top: 80px;
+        padding-bottom: 60px;
+        color: #fff;
+        }
+        
+    #interests h5, {
+        font-family: "Lato";
+        font-weight: 300;
+        font-size: 14px;        
+        color: #fff;
+        margin-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    #interests p {
+        padding-top: 3px;
+    }
+    #interests i {
+        color: #fff;
+        font-size: 30px;
+        padding-right: 8px;
+        padding-top: 20px;
+        vertical-align: middle;
+    }
+
+    #interests more {
+        color: #95a5a6;
+    }
+
+    
     #icon-tag {
         color: #2c3e50;
         font-size: 20px;
