@@ -245,7 +245,7 @@ body {
     }
 
     #portfolio more {
-        color: #95a5a6;        
+        color: #95a5a6bb;        
     }
     
     #interests {
@@ -276,7 +276,7 @@ body {
     }
 
     #interests more {
-        color: #95a5a6;
+        color: #95a5a6bb;
     }
 
     
@@ -315,7 +315,7 @@ body {
     }
 
     #interests more {
-        color: #95a5a6;
+        color: #95a5a6bb;
     }
 
     #skills {
@@ -327,16 +327,21 @@ body {
 
     #skills h5 {
         font-family: "Lato";
-        font-weight: 300;
+        font-weight: 400;
         font-size: 14px;
     }
+
+    #skills shs {
+        padding-top: 10px;
+       }
+
     
     #link {
-        padding-top: 65%;
+        padding-top: 7%;
     }
 
     #linkSec {
-        padding-top: 43%;
+        padding-top: 7%;
     }
 
     #linkThr {
@@ -372,7 +377,7 @@ body {
     }
     
     #footwrap i {
-        color: #95a5a6;
+        color: #95a5a6bb;
             font-size: 40px;
             vertical-align: middle;
             padding-left: 5px;
@@ -417,7 +422,7 @@ body {
     }
     
 .desc more {
-        color: #95a5a6;
+        color: #95a5a6bb;
     }
     
     
